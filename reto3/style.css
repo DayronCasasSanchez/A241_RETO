@@ -1,0 +1,45 @@
+body {
+    background-image: url(/img/imagen\ 1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img {
+    height: 60px;
+}
+
+img.icono1 {
+    height: 30px;
+    align-content: right;
+}
+
+img.icono2 {
+    height: 40px;
+    align-content: right;
+}
+
+a {
+    color: white;
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: -10%;
+    font-size: 50px;
+}
+
+.barra {
+    background-color: rgb(15, 81, 107);
+    padding: -5px;
+    font-size: 15px;
+    position: relative;
+}
+
+.barra .letras {
+    text-align: right;
+    align-content: center;
+}
